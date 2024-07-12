@@ -129,13 +129,9 @@ import {
       iconBg: "#383E56",
       date: "2023",
       points: [
-       "Constructed a social networking app facilitating user
-interactions and new connections through server-based
-communities. ",
-        "Utilized Stream API, ReactJS, NodeJS, HTML, and CSS to
-create a responsive platform.",
-        "Users can engage in conversations, share updates, and forge
-friendships within diverse server communities"
+       "Constructed a social networking app facilitating user interactions and new connections through server-based communities. ",
+        "Utilized Stream API, ReactJS, NodeJS, HTML, and CSS to create a responsive platform.",
+        "Users can engage in conversations, share updates, and forge friendships within diverse server communities"
       ],
     },
     {
