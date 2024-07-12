@@ -113,42 +113,42 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
+      title: "Shortlisted Finalist | New India Vibrant Hackathon",
       company_name: "",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "2022-2023",
+      date: "2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Contributed as a full stack developer in a competitive event. Successfully advanced to the final round, showcasing strong teamwork and technical skills. Achieved recognition for outstanding performance as a first-time participant."
       ],
     },
     {
-      title: "Web Developer",
+      title: "Chat App",
       company_name: "",
       icon: shopify,
       iconBg: "#383E56",
       date: "2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+       "Constructed a social networking app facilitating user
+interactions and new connections through server-based
+communities. ",
+        "Utilized Stream API, ReactJS, NodeJS, HTML, and CSS to
+create a responsive platform.",
+        "Users can engage in conversations, share updates, and forge
+friendships within diverse server communities"
       ],
     },
     {
-      title: "Full stack Developer",
+      title: "Gemini Ai competition",
       company_name: "",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: " 2023 - Present",
+      date: " Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+     "Developing features to aggregate content from up to  websites, generate optimized scripts, and create thumbnails.",
+"Implementing a progress dashboard and a bot for generating trending content ideas.",
+"Utilizing ReactJS, NodeJS, HTML, and CSS for a responsive interface and robust server-side functionality.",
+"Managing database operations for efficient data storage and retrieval."
       ],
     },
   ];
